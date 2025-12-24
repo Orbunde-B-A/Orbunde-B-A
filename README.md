@@ -68,7 +68,7 @@ Building scalable, secure, and production-ready applications across traditional 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/orbundebenjaminaondofa])
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white)]([https://yourportfolio.com](https://orbunde.vercel.app/))
 [![Email](https://img.shields.io/badge/Email-orbunde@cityhackz.com.ng-blue)](mailto:orbunde@cityhackz.com.ng)
-[!(https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/@bosco_benjamin)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/@bosco_benjamin)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/orbundebenjaminaondofa)
 
 ---
