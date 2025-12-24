@@ -80,18 +80,18 @@ Building scalable, secure, and production-ready applications across traditional 
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/orbundebenjaminaondofa/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BPtWcaPoaQ0yGfCpjOuXC2Q%3D%3D))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/orbundebenjaminaondofa])
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white)]([https://yourportfolio.com](https://orbunde.vercel.app/))
 [![Email](https://img.shields.io/badge/Email-orbunde@cityhackz.com.ng-blue)](mailto:orbunde@cityhackz.com.ng)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/@bosco_benjamin)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/your.profile)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/orbundebenjaminaondofa)
 
 ---
 
 ## ❤️ Support My Work
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/orbundebenjaminaondofa)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](https://www.patreon.com/yourusername)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](https://www.patreon.com/OrbundeBenjaminAondofa)
 
 ---
 
