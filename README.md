@@ -66,18 +66,6 @@ Building scalable, secure, and production-ready applications across traditional 
 
 ---
 
-## 📊 GitHub Activity
-
-![Profile Views](https://komarev.com/ghpvc/?username=Orbunde-B-A&label=Profile%20Views&color=0e75b6&style=flat)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Orbunde-B-A&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Orbunde-B-A&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orbunde-B-A&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/orbundebenjaminaondofa])
@@ -97,6 +85,6 @@ Building scalable, secure, and production-ready applications across traditional 
 
 ## ✨ Fun Facts
 
-- I sometimes use mouse without a mouse. It gives good feeling 🧑‍💻
+- Sometimes I use the Keyboard without the mouse. It gives good feeling 🧑‍💻
 - Everytime is a good time to code 🦉
 - Currently building a new version of Cityhackz 🚀
