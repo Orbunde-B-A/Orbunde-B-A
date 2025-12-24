@@ -8,30 +8,44 @@ Building scalable, secure, and production-ready applications across traditional 
 
 ### LAMP Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 ### MERN Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
 ### Tools & Platforms
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?logo=owasp&logoColor=white)
+
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?logo=github&logoColor=white)
+
 ![Packagist](https://img.shields.io/badge/Packagist-F28D1A?logo=packagist&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
+
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
+
 ![Stack%20Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)
+
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)
 
 ---
@@ -69,9 +83,13 @@ Building scalable, secure, and production-ready applications across traditional 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/orbundebenjaminaondofa])
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white)]([https://yourportfolio.com](https://orbunde.vercel.app/))
+
 [![Email](https://img.shields.io/badge/Email-orbunde@cityhackz.com.ng-blue)](mailto:orbunde@cityhackz.com.ng)
+
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/@bosco_benjamin)
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/orbundebenjaminaondofa)
 
 ---
